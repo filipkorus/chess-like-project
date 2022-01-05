@@ -8,4 +8,4 @@ User is prompt to choose a figure to move. Then red '<span style="color:red;">x<
 
 ### Preview
 
-!(https://github.com/filipkorus/chess-like-project/blob/master/preview.png)
+![preview](https://github.com/filipkorus/chess-like-project/blob/master/preview.png)
